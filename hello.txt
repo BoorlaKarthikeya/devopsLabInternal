@@ -1,2 +1,7 @@
+this is in branch 1
+B
+C
+this is from B
+B
 hello world!!!!
 this is karthikeya from github
